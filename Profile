@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @faithloves
-- 👀 I’m interested in Python, Machine Learning, AI
-- 🌱 I’m currently learning Data SCience
-- 😄 Pronouns: she/her
